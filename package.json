@@ -1,0 +1,27 @@
+{
+  "name": "cursodenodejs",
+  "version": "1.0.0",
+  "description": "\"# cursonodejs_guiaprogramador\" \r aula01\r O que é nodejs?\r aula02\r Instalação do nodejs\r aula03\r Node na pratica\r aula04\r modularização\r aula05\r Protocolo HTTP\r É o protocolo que realiza a comunicação entre o cliente e servidor. é atraves desse protocolo que o cliente consegue solicitar, e enviar dados.\r é o protocolo que premite que um cliente se comunique com um servidor\r é atraves desse protocolo que conseguimos criar aplicações back end.\r aula06\r Express - Framework para facilitar o desenvolvimento\r aula07\r Rotas\r funcao de callback - é uma funcao que é excutada sempre que evento acontence\r rota é uma caminho para aplicação",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolinachm/cursonodejs_guiaprogramador.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carolinachm/cursonodejs_guiaprogramador/issues"
+  },
+  "homepage": "https://github.com/carolinachm/cursonodejs_guiaprogramador#readme",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mysql2": "^1.6.4",
+    "sequelize": "^4.42.0"
+  }
+}
